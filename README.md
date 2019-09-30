@@ -3,7 +3,7 @@ Security/Hacking
 
 Tori Poplawski
 
-I have a very poor understanding of hacking and computer security which leave my information liable to be stolen, and after this assignment I hope to be able to keep mine and others information safe from virtual attacks.
+I have a very poor understanding of hacking and computer security which leave my information liable to be stolen. This is where I will leave my code that I do while studying software security and hacking.
 
 Goals
 
